@@ -2,7 +2,7 @@
 
 ## 2023 1학기 딥러닝 그룹 활동
 
-블로그 링크 : [https://ai-society.gitbook.io/ai-society-ii/](https://ai-society.gitbook.io/ai-society-ii/)
+블로그 링크 : [https://ai-society-1.gitbook.io/ai/](https://ai-society-1.gitbook.io/ai/)
 
 유튜브 링크 : [https://www.youtube.com/@aisociety3482](https://www.youtube.com/@aisociety3482)
 
